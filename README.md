@@ -10,7 +10,7 @@ Author's version: http://alexkvazos.github.io/VanillaToasts/
 # Installing
 
 ```
-$ npm install vanillatoasts
+npm install @filtitov2001/vanillatoasts@1.5.0
 ```
 
 Add this variable before using method ```create()```
