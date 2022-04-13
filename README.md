@@ -3,15 +3,22 @@
 
 Create toasts & notifications on your website with ease. This library is extremely lightweight and depends on no other library. Simply load the script and css to your page, and use the simple API to start launching toasts on your page.
 
-Check it out: http://alexkvazos.github.io/VanillaToasts/
+This version with bug fix of author's code.
+
+Author's version: http://alexkvazos.github.io/VanillaToasts/
 
 # Installing
 
 ```
 $ npm install vanillatoasts
+```
 
+Add this variable before using method ```create()```
+
+```
 var VanillaToasts = require('vanillatoasts');
 ```
+
 
 Don't forget to include the CSS file!
 ```
