@@ -9,6 +9,13 @@ Author's version: http://alexkvazos.github.io/VanillaToasts/
 
 # Installing
 
+Create in root folder file ```.npmrc``` and set next line:
+```
+@filtitov2001:registry=https://npm.pkg.github.com
+```
+
+Use this command in Terminal:
+
 ```
 npm install @filtitov2001/vanillatoasts@1.5.0
 ```
