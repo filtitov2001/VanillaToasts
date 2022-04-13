@@ -1,5 +1,5 @@
 {
-  "name": "vanillatoasts",
+  "name": "@filtitov2001/vanillatoasts",
   "version": "1.5.0",
   "description": "Agnostic Javascript Library for Website Notifications",
   "main": "vanillatoasts.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexKvazos/VanillaToasts.git"
+    "url": "git://github.com/filtitov2001/VanillaToasts.git"
   },
   "keywords": [
     "javascript",
