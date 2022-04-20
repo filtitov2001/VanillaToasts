@@ -1,5 +1,5 @@
 {
-  "name": "@filtitov2001/vanillatoasts",
+  "name": "vanillatoasts",
   "version": "1.5.1",
   "description": "Agnostic Javascript Library for Website Notifications",
   "main": "vanillatoasts.js",
