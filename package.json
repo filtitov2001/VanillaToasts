@@ -1,17 +1,14 @@
 {
-  "name": "vanillatoasts",
+  "name": "@thefiltitoff/vanillatoasts",
   "version": "1.5.1",
   "description": "Agnostic Javascript Library for Website Notifications",
   "main": "vanillatoasts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@filtitov2001"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/filtitov2001/VanillaToasts.git"
+    "url": "git+https://github.com/filtitov2001/VanillaToasts.git"
   },
   "keywords": [
     "javascript",
